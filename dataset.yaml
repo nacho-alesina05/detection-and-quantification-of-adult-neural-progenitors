@@ -1,0 +1,7 @@
+train: ./train
+val: ./validation
+test: ./test
+
+nc: 3
+
+names: ["CLDU", "DM", "IDU"]
